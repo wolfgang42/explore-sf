@@ -1,5 +1,6 @@
 const fs = require('fs-extra')
 const pug = require('pug')
+const child_process = require('child_process')
 const md = require('markdown-it')({linkify: true})
 
 // Clean up display text for bare URLs in markdown content
@@ -14,13 +15,20 @@ async function build() {
 	
 	for (const page_file of page_files) {
 		const page = page_file.replace('.md', '')
-		const content_markdown = await fs.readFile(`${__dirname}/pages/${page}.md`, 'utf-8')
+		const md_file = `${__dirname}/pages/${page}.md`
+		const content_markdown = await fs.readFile(md_file, 'utf-8')
 		const content_html = md.render(content_markdown)
 		const title = content_markdown.split('\n')[0].replace(/^#/, '').trim()
+		
+		const {stdout: lastmod_str} = child_process.spawnSync('git', ['log', '-1', '--format=%aI', '--', md_file], {encoding: 'utf-8'})
+		const [lastmod_date] = lastmod_str.split('T')
+		const [lastmod_year] = lastmod_date.split('-')
 		
 		const html = pug.renderFile(`${__dirname}/page.pug`, {
 			title,
 			content_html,
+			lastmod_year,
+			lastmod_date,
 		})
 		const html_file = `${__dirname}/public/${page}.html`
 		await fs.ensureFile(html_file)

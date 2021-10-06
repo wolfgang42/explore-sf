@@ -54,5 +54,3 @@ This is a loose collection of useful links about San Francisco, collected by [Wo
 
 ## See also
 * [AskSF Guide to San Francisco](https://www.reddit.com/r/AskSF/wiki/index)
-
-&copy; 2020-2021 Wolfgang Faust. Last updated October 2021.
