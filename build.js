@@ -25,6 +25,7 @@ async function build() {
 		const [lastmod_year] = lastmod_date.split('-')
 		
 		const html = pug.renderFile(`${__dirname}/page.pug`, {
+			page_name: page === 'index' ? '' : page,
 			title,
 			content_html,
 			lastmod_year,
