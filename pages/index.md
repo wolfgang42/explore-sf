@@ -20,7 +20,7 @@ This is a loose collection of useful links about San Francisco, collected by [Wo
   * [How to get a Clipper card](https://www.clippercard.com/ClipperWeb/get.html)
   * [Services that accept Clipper](https://www.clippercard.com/ClipperWeb/where-to-use.html)
 * [Public transit travel time map](https://www.mapnificent.net/sanfrancisco/) (isochrone)
-* [OpenTransit.city](http://opentransit.city/)
+* http://OpenTransit.city
   * [Route metrics](https://muni.opentransit.city/metrics)
   * [Isochrone](https://muni.opentransit.city/isochrone) (transit time map)
 * [San Francisco Transit Riders](https://sftransitriders.org)
