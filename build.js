@@ -26,6 +26,7 @@ async function build() {
 		
 		const html = pug.renderFile(`${__dirname}/page.pug`, {
 			page_name: page === 'index' ? '' : page,
+			page_id: page,
 			title,
 			content_html,
 			lastmod_year,
