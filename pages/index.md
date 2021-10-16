@@ -6,6 +6,9 @@ This is a loose collection of useful links about San Francisco, collected by [Wo
 * [SF Recreation & Parks](https://sfrecpark.org/)
 * Publicly Owned Private Open Spaces (POPOS)
   * https://sfpopos.com/ (last updated 2016)
+  * [POPOS and public art](https://sfplanning.org/privately-owned-public-open-space-and-public-art) (ordinance information and map)
+  * [POPOS list on data.sfgov.org](https://data.sfgov.org/widgets/65ik-7wqd)
+  * [Map of POPOS](https://www.google.com/maps/d/edit?mid=1ijuVjYxdUGORkWmigzXr1Ia4WYI7InAk) ([via /u/wezwells](https://www.reddit.com/r/AskSF/comments/q5dif5/open_popos/hg6gndk/))
 
 ## Events
 * https://sf.funcheap.com/
