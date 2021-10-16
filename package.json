@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@js-temporal/polyfill": "^0.2.0",
     "fs-extra": "^10.0.0",
     "markdown-it": "^12.2.0",
     "nodemon": "^2.0.13",
