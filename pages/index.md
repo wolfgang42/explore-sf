@@ -12,8 +12,12 @@ This is a loose collection of useful links about San Francisco, collected by [Wo
 
 ## Events
 * https://sf.funcheap.com/
+* https://www.sfstation.com/
+* https://dothebay.com/
 * [meetup.com events](https://www.meetup.com/find/?location=us--ca--San%20Francisco&source=EVENTS)
 * [eventbrite.com events](https://www.eventbrite.com/d/ca--san-francisco/)
+* Bay Area concert guide: http://www.foopee.com/punk/the-list/
+* [Electronic music event listing](https://19hz.info/eventlisting_BayArea.php)
 
 ## Transport
 
