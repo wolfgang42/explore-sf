@@ -58,6 +58,7 @@ This is a loose collection of useful links about San Francisco, collected by [Wo
 * Public transit
   * [Blackpool boat trams](https://www.streetcar.org/boats)
   * The Ghost Ship of Muni Metro: [Part 1](https://www.sfmta.com/blog/ghost-ship-muni-metro-part-1), [Part 2](https://www.sfmta.com/blog/ghost-ship-muni-metro-part-2)
+  * [Where did the BART logo come from?](https://twitter.com/SFBART/status/1463646277887938562)
 
 ## See also
 * [AskSF Guide to San Francisco](https://www.reddit.com/r/AskSF/wiki/index)
