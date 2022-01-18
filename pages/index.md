@@ -45,6 +45,8 @@ This is a loose collection of useful links about San Francisco, collected by [Wo
 ## Disaster preparedness
 * https://sf-fire.org/neighborhood-emergency-response-team-nert
 * https://www.sf72.org/hazard/earthquake
+* [Staying Safe Where the Earth Shakes](https://www.earthquakecountry.org/library/StayingSafeWhereTheEarthShakes_BayAreaEdition.pdf)
+* [San Francisco Tsunami Hazard Areas](https://www.conservation.ca.gov/cgs/tsunami/maps/san-francisco)
 * https://www.pge.com/en_US/residential/outages/public-safety-power-shuttoff/psps-support.page
 
 ## Discussion forums
