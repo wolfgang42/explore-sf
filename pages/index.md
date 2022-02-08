@@ -9,6 +9,10 @@ This is a loose collection of useful links about San Francisco, collected by [Wo
   * [POPOS and public art](https://sfplanning.org/privately-owned-public-open-space-and-public-art) (ordinance information and map)
   * [POPOS list on data.sfgov.org](https://data.sfgov.org/widgets/65ik-7wqd)
   * [Map of POPOS](https://www.google.com/maps/d/edit?mid=1ijuVjYxdUGORkWmigzXr1Ia4WYI7InAk) ([via /u/wezwells](https://www.reddit.com/r/AskSF/comments/q5dif5/open_popos/hg6gndk/))
+* Trees
+  * [SF Street Tree Map](https://bsm.sfdpw.org/urbanforestry/)
+  * https://www.sftrees.com/
+  * [The Trees of San Francisco](https://sfpl.bibliocommons.com/v2/record/S93C2703110) by Mike Sullivan
 
 ## Events
 * https://sf.funcheap.com/
